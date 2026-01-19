@@ -1,0 +1,23 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"std" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/__CMAKE__CXX23@synth_0ccbb4d06e4b.dir/7e51e9865fa1.bmi"
+		},
+		"std.compat" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/__CMAKE__CXX23@synth_0ccbb4d06e4b.dir/f487656d2897.bmi"
+		}
+	},
+	"usages" : 
+	{
+		"std.compat" : 
+		[
+			"std"
+		]
+	}
+}

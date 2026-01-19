@@ -1,0 +1,14 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/20.dir/main.cpp.o",
+"requires": [
+{
+"logical-name": "std"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

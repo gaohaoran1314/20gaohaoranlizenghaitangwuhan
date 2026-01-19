@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/root/20/build/C_C_2026_01_18-Debug",
+	"dir-cur-src" : "/root/20",
+	"dir-top-bld" : "/root/20/build/C_C_2026_01_18-Debug",
+	"dir-top-src" : "/root/20",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/root/20/build/C_C_2026_01_18-Debug/CMakeFiles/__CMAKE__CXX23@synth_0ccbb4d06e4b.dir"
+	],
+	"module-dir" : "/root/20/build/C_C_2026_01_18-Debug/CMakeFiles/20.dir",
+	"sources" : 
+	{
+		"CMakeFiles/20.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/root/20/main.cpp"
+		}
+	}
+}

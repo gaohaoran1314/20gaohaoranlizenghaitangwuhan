@@ -1,0 +1,20 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/__CMAKE__CXX23@synth_0ccbb4d06e4b.dir/f487656d2897.bmi",
+"provides": [
+{
+"logical-name": "std.compat",
+"is-interface": true
+}
+],
+"requires": [
+{
+"logical-name": "std"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

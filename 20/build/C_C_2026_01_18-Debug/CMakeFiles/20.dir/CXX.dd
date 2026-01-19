@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/20.dir/main.cpp.o: dyndep | CMakeFiles/__CMAKE__CXX23@synth_0ccbb4d06e4b.dir/7e51e9865fa1.bmi
+
